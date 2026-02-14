@@ -129,7 +129,7 @@ const GAME_CONFIG = {
         // ==========================================
         revelacion_divertida: {
             title: "Un Secreto",
-            message: "Lo que iba a decir es que me encanta lo bien que la paso con tigo. Me encanta tu humor tan....Como explicarlo? noshe JAJAJA \n\nSomos el equipo perfecto, tanto en los videojuegos como en la vida.\n\nLista para el final???",
+            message: "Lo que iba a decir es que me encanta lo bien que la paso contigo. Me encanta tu humor tan....Como explicarlo? noshe JAJAJA \n\nSomos el equipo perfecto, tanto en los videojuegos como en la vida.\n\nLista para el final???",
             choices: [
                 {
                     text: "Sí  ¿Qué sigue?",
@@ -165,7 +165,7 @@ const GAME_CONFIG = {
         // ==========================================
         futuro_juntos: {
             title: "Nuestro Futuro",
-            message: "Cuando pienso en el futuro, siempre estás ahí a mi lado, un sueño y objetivo que tengo desde los 11; ser rico antes de los 25, ahora tengo 15 y estoy seguro de que quiero estar con tigo el resto de mi vida, si estoy lejos de eso al llegar la fecha limite...(Que lo dudo pues no quiero morir JAJAJA) me quitare la vida porque no me habré esforsado para conseguirlo.\n\nQuiero Más aventuras, más risas, Todo contigo.\n\nNo importa qué nos depare el futuro, sé que mientras estemos juntos, todo estará bien.\n\nque sueñas para nosotros? :>",
+            message: "Cuando pienso en el futuro, siempre estás ahí a mi lado, un sueño y objetivo que tengo desde los 11; ser rico antes de los 25, ahora tengo 15 y estoy seguro de que quiero estar contigo el resto de mi vida, si estoy lejos de eso al llegar la fecha límite... (Que lo dudo pues eso sería muy feo JAJAJA) me va a entrar una depresión arrecha JAJA porque no me habré esforzado para conseguirlo.\n\nQuiero más aventuras, más risas, todo contigo.\n\nNo importa qué nos depare el futuro, sé que mientras estemos juntos, todo estará bien.\n\n¿Qué sueñas para nosotros? :>",
             choices: [
                 {
                     text: "Más aventuras y viajes juntos 🗺️",
@@ -258,7 +258,7 @@ const GAME_CONFIG = {
 
         ending_hogar: {
             title: "🏡 Final: Nuestro Hogar 🏡",
-            message: "Por eso, me esforsare mas cada dia, por ti y nuestro futuro, aveces pienso ; ¿Vale la pena lo que hago?, ¿Lo lograré?, ¿y si no sale bien?. Luego pienso en ti y eso me motiva a seguir mejorar cada dia para conseguirlo... Y te juro que lo hare amor, se que seremos y seras una persona de gran valor mas de lo que ya eres, y cumpliras todos tus sueños.\n\n El hogar no es un lugar, es una persona. Y tu eres mi hogar.\n\nDonde estés tú, ahí quiero estar yo. Construyendo recuerdos, compartiendo sueños, creando nuestra vida juntos.\n\nGracias por ser mi hogar y mi familia.\n\nFeliz San Valentín, mi amor. 💖",
+            message: "Por eso, me esforzaré mas cada dia, por ti y nuestro futuro, aveces pienso ; ¿Vale la pena lo que hago?, ¿Lo lograré?, ¿y si no sale bien?. Luego pienso en ti y eso me motiva a seguir mejorar cada dia para conseguirlo... Y te juro que lo hare amor, se que seremos y seras una persona de gran valor mas de lo que ya eres, y cumpliras todos tus sueños.\n\n El hogar no es un lugar, es una persona. Y tu eres mi hogar.\n\nDonde estés tú, ahí quiero estar yo. Construyendo recuerdos, compartiendo sueños, creando nuestra vida juntos.\n\nGracias por ser mi hogar y mi familia.\n\nFeliz San Valentín, mi amor. 💖",
             emoji: "🏡💕✨"
         },
 
@@ -270,7 +270,7 @@ const GAME_CONFIG = {
 
         ending_invencibles: {
             title: "Final: Poderosos 💅",
-            message: "Juntos somos imparables. Juntos podemos con todo (incluso con los tocinos y los rubios, ahunque sean el diablo 💔).\n\nCada desafío que enfrentamos nos hace más fuertes. Cada victoria que celebramos nos une más.\n\nTú y yo contra el mundo, mi amor.\n\nFeliz San Valentín 💖⚔️",
+            message: "Juntos somos imparables. Juntos podemos con todo (incluso con los tocinos y los rubios, aunque sean el diablo 💔).\n\nCada desafío que enfrentamos nos hace más fuertes. Cada victoria que celebramos nos une más.\n\nTú y yo contra el mundo, mi amor.\n\nFeliz San Valentín 💖⚔️",
             emoji: "💅⚔️💕"
         },
 
